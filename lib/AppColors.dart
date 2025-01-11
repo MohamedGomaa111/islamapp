@@ -6,4 +6,6 @@ class Appcolors {
   static const Color blackBGNBColor = Color(0x99FFFFFF);
 
   static const Color whiteColor = Color(0xffFFFFFF);
+  static const Color redcolor =
+      Color.from(alpha: 1, red: 0.957, green: 0.263, blue: 0.212);
 }
