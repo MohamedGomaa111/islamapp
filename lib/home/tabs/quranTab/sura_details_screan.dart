@@ -23,6 +23,7 @@ class _SuraDetailsScreanState extends State<SuraDetailsScrean> {
     if (virses.isEmpty) {
       loodSuraFiles(args.index);
     }
+
     return Scaffold(
       backgroundColor: Appcolors.blackColor,
       appBar: AppBar(
