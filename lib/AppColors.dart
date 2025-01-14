@@ -8,4 +8,5 @@ class Appcolors {
   static const Color whiteColor = Color(0xffFFFFFF);
   static const Color redcolor =
       Color.from(alpha: 1, red: 0.957, green: 0.263, blue: 0.212);
+  static const Color plucolor = Colors.purple;
 }
